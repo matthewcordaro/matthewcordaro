@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Matthew Cordaro (@matthewcordaro)
-- 👀 I’m currently interested in getting a Software Engineering job
-- 👨‍🏫 I'm currently teaching a data science coding bootcamp - Q4-22
-- 🌱 I’m currently learning ReactJS - Q1-23
-- 💞️ I’m looking to collaborate on coding challenges, interview prep, and any other exciting challenges
-- 📫 How to reach me: Twitter @MatthewCordaro OR Email at "cordaro (DOT) matthew (AT) gmail (DOT) com" 
+- 👋 Hi, I’m Matthew Cordaro (@matthewcordaro basically everywhere)
+- 👀 I’m looking for employment as a Software Engineer (5+ years EXP)
+- 👨‍🏫 I'm coding up some NextJS/React/Deno/Node sites for my portfolio
+- 🌱 I’m learning NextJS and Deno
+- 💞️ I love 3D Printing, Bowling, Gaming, & Learning practical things.
+- 📫 How to reach me:  [𝕏 @MatthewCordaro](https://x.com/MatthewCordaro/) OR Email at "cordaro (DOT) matthew (AT) gmail (DOT) com" 
 
 <!---
 matthewcordaro/matthewcordaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
