@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew Cordaro.
 - 👀 I’m looking for employment as a Senior Software Engineer.
 - 👨‍🏫 I'm coding up stuff for my portfolio.
-  - Completed [my website](https://www.matthewcordaro.com) in Next.js. Currently adding portfolio items.
+  - Completed [my website](https://www.matthewcordaro.com) in Next.js.
   - Released Easy Audio Toggle: [Easy Audio Toggle](https://www.matthewcordaro.com/projects#easy-audio-toggle)
 - 🌱 I’m learning NextJS.
 - 💞️ I love 3D printing, bowling, gaming, & learning practical things.
